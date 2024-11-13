@@ -69,11 +69,10 @@ Key technologies and tools include:
 - **Testing**: JUnit, Mockito.
 - **Version Control**: Git.
 
-## How to Run
+## Contact
 
-Each project folder contains its own `README.md` file with specific instructions. Generally, you can follow these steps:
+If you have questions, feedback, or collaboration opportunities, please feel free to reach out:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Java-Projects-Portfolio.git
-
+Email: johnozier@gmail.com
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/john-ozier-4a105828/)
+Thank you for reviewing my portfolio!
